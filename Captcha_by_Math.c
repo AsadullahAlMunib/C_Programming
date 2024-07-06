@@ -16,10 +16,10 @@ int main() {
         printf("%d + %d = ", num1, num2);
         scanf("%d", &input);
         if(ans==input) {
-            printf("\tYou're write. \n\n");
+            printf("\tYou're Right. \n\n");
         }
         else {
-            printf("\tSorry, It's wrong. \n\n");
+            printf("\tSorry, It's Wrong. \n\n");
         }
         break;
         
@@ -28,10 +28,10 @@ int main() {
         printf("%d - %d = ", num1, num2);
         scanf("%d", &input);
         if(ans==input) {
-            printf("\tYou're write. \n\n");
+            printf("\tYou're Right. \n\n");
         }
         else {
-            printf("\tSorry, It's wrong. \n\n");
+            printf("\tSorry, It's Wrong. \n\n");
         }
         break;
         
@@ -40,10 +40,10 @@ int main() {
         printf("%d * %d = ", num1, num2);
         scanf("%d", &input);
         if(ans==input) {
-            printf("\tYou're write. \n\n");
+            printf("\tYou're Right. \n\n");
         }
         else {
-            printf("\tSorry, It's wrong. \n\n");
+            printf("\tSorry, It's Wrong. \n\n");
         }
         break;
     }
